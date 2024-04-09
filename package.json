@@ -51,7 +51,7 @@
     },
     "dependencies": {
         "iconv-lite-umd": "^0.6.10",
-        "jschardet": "^3.0.0"
+        "jschardet": "^3.1.0"
     },
     "devDependencies": {
         "@semantic-release/changelog": "^5.0.1",
